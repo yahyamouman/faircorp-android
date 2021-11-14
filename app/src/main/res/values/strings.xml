@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Faircorp</string>
+    <string name="app_logo_description">Faircorp logo</string>
+
+    <string name="act_main_windowname_hint">Window name</string>
+    <string name="act_main_welcome">Welcome on faircorp,\n the app to manage building windows</string>
+    <string name="act_main_open_window">Open window</string>
+    <string name="menu_windows">Building windows</string>
+    <string name="menu_doors">Building doors</string>
+    <string name="menu_website">Our website</string>
+    <string name="menu_email">Send us an email</string>
+
+    <string name="act_window_name">Window name</string>
+    <string name="act_window_room">Room</string>
+    <string name="act_window_room_target_temp">Target room temperature</string>
+    <string name="act_window_room_current_temp">Current room temperature</string>
+    <string name="act_window_status">Status</string>
+
+    <string name="act_door_name">Door name</string>
+    <string name="act_door_room">Room</string>
+    <string name="act_door_room_target_temp">Target room temperature</string>
+    <string name="act_door_room_current_temp">Current room temperature</string>
+    <string name="act_door_status">Door Status</string>
+
+    <string name="act_heater_name">Heater name</string>
+    <string name="act_heater_room">Room</string>
+    <string name="act_heater_room_target_temp">Target room temperature</string>
+    <string name="act_heater_room_current_temp">Current room temperature</string>
+    <string name="act_heater_status">Heater Status</string>
+</resources>

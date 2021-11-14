@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_door.xml" value="0.25" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_doors.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_doors_item.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_window.xml" value="0.4" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_windows.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/layout/activity_windows_item.xml" value="0.4" />
+        <entry key="..\:/Users/yahya/StudioProjects/FairCorp-Android-App/app/src/main/res/menu/menu.xml" value="0.37083333333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
