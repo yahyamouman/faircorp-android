@@ -6,9 +6,9 @@ import retrofit2.http.GET
 import retrofit2.http.Path
 
 interface RoomApiService {
-        @GET("rooms")
+        @GET("room")
         fun findAll(): Call<List<RoomDto>>
 
-        @GET("rooms/{id}")
+        @GET("room/{id}")
         fun findById(@Path("id") id: Long): Call<RoomDto>
 }
